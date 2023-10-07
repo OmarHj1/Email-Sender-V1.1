@@ -1,5 +1,3 @@
-**README.md**
-
 **Email Sender**
 
 **Version 1.1**
@@ -13,8 +11,7 @@
 1. Run the program and enter your SMTP server, port, sender email address, sender password, and email subject.
 2. Select your "msg" file, which is the file containing the email body.
 3. Select your "maillist" file, which is the file containing the recipient email addresses.
-4. Optionally, specify the number of seconds to wait between sending emails and any email addresses to exclude from the mailing list using command line arguments.
-5. The program will then send the emails to all of the recipients in the maillist file.
+4. The program will then send the emails to all of the recipients in the maillist file.
 
 **Command line arguments:**
 
